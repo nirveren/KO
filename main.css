@@ -1424,7 +1424,7 @@ input:focus~.highlight {
     .footer__info {
         display: flex;
         margin-top: 43px;
-        margin-bottom: 0px;
+        margin-bottom: 30px;
     }
     
     
@@ -1443,6 +1443,7 @@ input:focus~.highlight {
     .footer__info-content {
         font-size: 15px;
         color: #fff;
+        
     }
     
 }
@@ -1486,5 +1487,9 @@ input:focus~.highlight {
     .footer__info-content {
         font-size: 15px;
         color: #fff;
+    }
+
+    .footer__info {
+        margin-bottom: 30px;
     }
 }
