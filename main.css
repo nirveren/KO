@@ -1151,7 +1151,6 @@ input:focus~.highlight {
     }
     
     .header__content-subtitle {
-        font-family: Lato-Medium;
         font-weight: 500;
         font-size: 25px;
         margin-bottom: 30px;
